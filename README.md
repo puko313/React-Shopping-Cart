@@ -1,40 +1,38 @@
-Contribution: 2013-12-08 20:00
+# React Shopping Cart
 
-Contribution: 2013-12-08 20:01
+### [Demo Link](https://react-shopping-cart-project.netlify.app/) 🔗
 
-Contribution: 2013-12-08 20:02
+**Shopping Cart Project** built with **React JS**, using **Context API** & **useReducer Hook**.
 
-Contribution: 2013-12-08 20:03
+<br/>
 
-Contribution: 2013-12-08 20:04
+## Features:
 
-Contribution: 2013-12-08 20:05
+- #### Add to Cart
+- #### Remove from Cart
+- #### Increment / Decrement the Quantity
 
-Contribution: 2013-12-08 20:06
+<br/>
 
-Contribution: 2013-12-08 20:07
+## Technologies used:
 
-Contribution: 2013-12-08 20:08
+- #### **React JS**
+- #### **SASS**
 
-Contribution: 2013-12-09 20:00
+<br/>
 
-Contribution: 2013-12-09 20:01
+## Author:
 
-Contribution: 2013-12-09 20:02
+- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
 
-Contribution: 2013-12-09 20:03
+<br/>
 
-Contribution: 2013-12-09 20:04
+## Available Scripts:
 
-Contribution: 2013-12-09 20:05
+#### `npm start`
 
-Contribution: 2013-12-09 20:06
+#### `npm test`
 
-Contribution: 2013-12-09 20:07
+#### `npm run build`
 
-Contribution: 2013-12-09 20:08
-
-Contribution: 2013-12-09 20:09
-
-Contribution: 2013-12-12 20:00
-
+#### `npm run eject`
